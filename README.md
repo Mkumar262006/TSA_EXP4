@@ -125,10 +125,10 @@ plt.show()
 Original Data:
 <img width="1021" height="497" alt="image" src="https://github.com/user-attachments/assets/b3f9dcf2-7b11-42ba-a6d2-bfcbf184b790" />
 
-Partial Autocorrelation:
+Autocorrelation:
 <img width="1175" height="267" alt="image" src="https://github.com/user-attachments/assets/d545b657-97bf-41bc-b8ea-4c1636aeba69" />
 
-Autocorrelation:
+Partial Autocorrelation:
 <img width="1161" height="271" alt="image" src="https://github.com/user-attachments/assets/d08a4df8-6325-4f60-820b-e43a0bfbfb17" />
 
 SIMULATED ARMA(1,1) PROCESS:
